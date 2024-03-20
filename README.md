@@ -1,4 +1,4 @@
-Start with
-npm install
-cd my-app
-npm start
+Start with<br> 
+npm install <br> 
+cd my-app <br> 
+npm start <br> 
