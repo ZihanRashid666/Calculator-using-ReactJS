@@ -1,4 +1,5 @@
-Start with New Terminal from 'Terminal'<br> 
+Start with New Terminal<br> 
+Then write the following code step by step<br> 
 cd my-app <br> 
 npm start <br> 
 npm install react-scripts --save <br>
