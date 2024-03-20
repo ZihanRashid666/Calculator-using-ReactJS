@@ -1,4 +1,4 @@
-Start with<br> 
+Start with New Terminal<br> 
 cd my-app <br> 
 npm start <br> 
 npm install react-scripts --save <br>
